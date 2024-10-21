@@ -1,5 +1,9 @@
 # LeoThePeo Thumbnail Repository
 
+Most recent thumbnail:
+<br>
+<img src="https://github.com/leothepeo/thumbnails/blob/main/10/2024-10-21-13-44-02-374large.png" height="200">
+
 This repository contains every YouTube thumbnail on the [@leothepeo](https://www.youtube.com/@leothepeo) YouTube channel since August 7th of 2019.
 
 These thumbnails are sorted into year folders, inside of which are month subfolders. All filenames begin with the output of `date -r file +%Y-%m-%d-%H-%M-%S-%3N`. In other words, all filenames begin with their year, month, day, hour, minute, second, and millisecond of modification.
@@ -16,6 +20,6 @@ There are two versions of every thumbnail, `small` & `large`:
 
 A very small minority of thumbnails don't have `large` variants, I'm not sure why. In this case, viewing the `small` thumbnail is preferable.
 
-**This artwork is licensed under the [Creative Commons Attribution-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nd/4.0/). You are free to share it with others as long as you provide appropriate credit to "thou" and/or "leothepeo" but you may not modify the work in any way.**
+**This artwork is licensed under the [Creative Commons Attribution-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nd/4.0/). You are free to share it with others in any context as long as you provide appropriate credit to "thou" and/or "leothepeo" but you may not modify the work in any way.**
 
-![Creative Commons BY-ND 88x31 button](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nd.png)
+<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nd.png" alt="Creative Commons BY-ND 88x31 button" height="62">
