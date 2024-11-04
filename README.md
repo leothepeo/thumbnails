@@ -20,6 +20,6 @@ There are two versions of every thumbnail, `small` & `large`:
 
 A very small minority of thumbnails don't have `large` variants, I'm not sure why. In this case, viewing the `small` thumbnail is preferable.
 
-**This artwork is licensed under the [Creative Commons Attribution-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nd/4.0/). You are free to share it with others in any context as long as you provide appropriate credit to "thou" and/or "leothepeo" but you may not modify the work in any way.**
+**This artwork is licensed under the [Creative Commons Attribution-Noncommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/). You are free to share it with others in any context as long as you provide appropriate credit to "thou" and/or "leothepeo." However, you may not modify the work in any way or use it for commercial purposes.**
 
-<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nd.png" alt="Creative Commons BY-ND 88x31 button" height="62">
+<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-nd.png" alt="Creative Commons BY-NC-ND 88x31 button" height="62">
