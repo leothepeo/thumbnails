@@ -1,6 +1,6 @@
 # LeoThePeo Thumbnail Repository
 
-Most recent thumbnail:
+Most recent thumbnail (click to enlarge):
 <br>
 <a href="https://github.com/leothepeo/thumbnails/blob/main/2024/11/2024-11-22-11-37-54-235large.png"><img src="https://github.com/leothepeo/thumbnails/blob/main/2024/11/2024-11-22-11-37-54-235large.png?raw=true" height="200"></a>
 
