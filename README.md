@@ -2,7 +2,7 @@
 
 Most recent thumbnail (click to enlarge):
 <br>
-<a href="https://github.com/leothepeo/thumbnails/blob/main/2026/06/2026-06-23-20-09-19-650large.png"><img src="https://github.com/leothepeo/thumbnails/blob/main/2026/06/2026-06-23-20-09-19-650large.png?raw=true" height="200"></a>
+<a href="https://github.com/leothepeo/thumbnails/blob/main/2026/06/2026-06-24-21-14-43-925large.png"><img src="https://github.com/leothepeo/thumbnails/blob/main/2026/06/2026-06-24-21-14-43-925large.png?raw=true" height="200"></a>
 
 This repository contains every YouTube thumbnail on the [@leothepeo](https://www.youtube.com/@leothepeo) YouTube channel since August 7th of 2019.
 
